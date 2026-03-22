@@ -10,7 +10,7 @@ IdentChain is a revolutionary **Smart Wallet** built on **Account Abstraction (E
 
 ---
 
-## 🌟 Why IdentChain? (10/10 Innovation)
+## 🌟 Why IdentChain? Innovation)
 
 Current crypto wallets are hard to use. Losing 12 words means losing your money. **IdentChain changes that.**
 
